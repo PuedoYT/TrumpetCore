@@ -1,0 +1,10 @@
+name: TrumpetCore
+version: '${project.version}'
+main: me.trumpetcore.Trumpet
+commands:
+  profile:
+    description: 'profile'
+  rank:
+    description: 'rank'
+  ban:
+    description: 'ban hammer'
